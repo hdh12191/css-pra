@@ -1,0 +1,9 @@
+:root {
+  --container-bg-color: black;
+  --nav-font-color: yellow;
+  --nav-bg-color: brown;
+}
+
+.container {
+  background-color: var(--container-bg-color);
+}
